@@ -4,8 +4,8 @@
 
 | Week | Primary Topic | Description | Coursera Topic | Hands-On ML Book Chapters | 
 |-------------|:-------------:|:-------------:|:-------------:|:-------------:|
-| 1 | Overview | Overview, Google Colab, Python Refresher, Linear Regression | Week 1 | Chapter 1 | Week 1 |
-| 2 | Logistic Regression |  |  |  |  |
+| 1 | Overview | Overview, Google Colab, Python Refresher | Week 1 | Week 1 | Chapter 1 |
+| 2 | Regression |  |  |  |  |
 | 3 | Multi-class Classification |  |  |  |  |
 | 4 | Neural Networks Learning |  |  |  |  |
 | 5 | Support Vector Machines |  |  |  |  |
@@ -23,8 +23,20 @@
 
 ### Week 1 (4-29-20)
 
-- [Python Refresher](http://cs229.stanford.edu/section/cs229_python_tutorial/cs229_python_friday.pdf)
-- [Jupyter Notebook for Python](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)
-- [Introduction ML from Stanford](http://cs229.stanford.edu/notes2020spring/lecture1_slide.pdf)
-- [Week 1 Exercise](https://github.com/kaleko/CourseraML/tree/master/ex1)
+Summary: this week was an introduction to ML. We covered the following topics.
 
+- What is machine learning?
+- What are the broad types of machine learning?
+- Jupyter notebooks with Google Colab
+
+Reference materials:
+
+- [Introduction to ML from Stanford](http://cs229.stanford.edu/notes2020spring/lecture1_slide.pdf)
+
+Homework for the next class:
+
+- Review the [Python Refresher](http://cs229.stanford.edu/section/cs229_python_tutorial/cs229_python_friday.pdf)
+- Review the [Jupyter Notebook for Python](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)
+- Exercise: look at the ex1.ipynb example [here](https://github.com/kaleko/CourseraML/tree/master/ex1). This is a python implementation of the Coursera exercises.
+- For a more detailed overview of ML, read chapter 1 of the [Hands-on ML Book]([Hands-on ML Book](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991043641697603276)
+- Watch the week 1 videos on the [Coursera Machine Learning Course](https://www.coursera.org/learn/machine-learning)
