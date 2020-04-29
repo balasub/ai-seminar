@@ -37,5 +37,5 @@ Homework for the next class:
 
 - Review the [Python Refresher](http://cs229.stanford.edu/section/cs229_python_tutorial/cs229_python_friday.pdf)
 - Review the [Jupyter Notebook for Python](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)
-- For a more detailed overview of ML, read chapter 1 of the [Hands-on ML Book]([Hands-on ML Book](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991043641697603276)
+- For a more detailed overview of ML, read chapter 1 of the [Hands-on ML Book](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991043641697603276)
 - Watch the week 1 videos on the [Coursera Machine Learning Course](https://www.coursera.org/learn/machine-learning)
