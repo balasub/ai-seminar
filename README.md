@@ -4,7 +4,7 @@
 
 | Week | Primary Topic | Description | Coursera Topic | Hands-On ML Book Chapters | 
 |-------------|:-------------:|:-------------:|:-------------:|:-------------:|
-| 1 | Overview | Overview, Google Colab, Python Refresher | Week 1 | Week 1 | Chapter 1 |
+| 1 | Overview | Overview, Google Colab, Python Refresher | Week 1 | Chapter 1 | 
 | 2 | Regression |  |  |  |  |
 | 3 | Multi-class Classification |  |  |  |  |
 | 4 | Neural Networks Learning |  |  |  |  |
