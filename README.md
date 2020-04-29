@@ -19,6 +19,7 @@
 - [Hands-on ML Book](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991043641697603276)
 - [Hands-on ML Github Repo](https://github.com/tornikeo/handson-ml2)
 - [Coursera Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+- [Coursera ML Github Repo](https://github.com/vkosuri/CourseraMachineLearning)
 
 ### Week 1 (4-29-20)
 
@@ -26,3 +27,4 @@
 - [Jupyter Notebook for Python](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)
 - [Introduction ML from Stanford](http://cs229.stanford.edu/notes2020spring/lecture1_slide.pdf)
 - [Week 1 Exercise](https://github.com/kaleko/CourseraML/tree/master/ex1)
+
