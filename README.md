@@ -23,6 +23,7 @@
 
 ### Week 1 (4-29-20)
 
+[Video Recording:](https://www.youtube.com/watch?v=qMQpVTbl7Lw) 
 Summary: this week was an introduction to ML. We covered the following topics.
 
 - What is machine learning?
