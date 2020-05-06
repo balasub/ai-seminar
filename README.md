@@ -5,7 +5,7 @@
 | Week | Primary Topic | Description | Coursera Topic | Hands-On ML Book Chapters | 
 |-------------|:-------------:|:-------------:|:-------------:|:-------------:|
 | 1 | Overview | Overview, Google Colab, Python Refresher | Week 1 | Chapter 1 | 
-| 2 | Regression |  |  |  |  |
+| 2 | Regression | Overview, Hands-on Jupyter Notebook | Week 1 | Chapter 4 |  |
 | 3 | Multi-class Classification |  |  |  |  |
 | 4 | Neural Networks Learning |  |  |  |  |
 | 5 | Support Vector Machines |  |  |  |  |
@@ -41,3 +41,17 @@ Homework for the next class:
 - Review the [Jupyter Notebook for Python](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb)
 - For a more detailed overview of ML, read chapter 1 of the [Hands-on ML Book](https://catalog.library.vanderbilt.edu/permalink/01VAN_INST/6ll2l/alma991043641697603276)
 - Watch the week 1 videos on the [Coursera Machine Learning Course](https://www.coursera.org/learn/machine-learning)
+
+
+### Week 2 (5-6-20):
+- [Week 2 Video Recording Link]()
+
+Summary: This week we will cover:
+
+- Regression
+- Linear Regression
+- Polynomial Regression
+- Training Data - Test/Train Split
+- Hands-On Activity:
+  - Linear Regression
+  - Boston Housing Data
