@@ -55,3 +55,10 @@ Summary: This week we will cover:
 - Hands-On Activity:
   - Linear Regression
   - Boston Housing Data
+
+Homework and reading for the next class:
+
+- The "Select a Performance Measure" section from chapter 2 of the book.
+- The "Feature Scaling" section from chapter 2 of the book.
+- The "Multivariate Linear Regression" videos/readings from week 2 of Coursera for understanding polynomial regression.
+- The "Classification and Representation" videos/readings from week 3 of Coursera for understanding logistic regression.
