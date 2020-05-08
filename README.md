@@ -5,14 +5,15 @@
 | Week | Primary Topic | Description | Coursera Topic | Hands-On ML Book Chapters | 
 |-------------|:-------------:|:-------------:|:-------------:|:-------------:|
 | 1 | Overview | Overview, Google Colab, Python Refresher | Week 1 | Chapter 1 | 
-| 2 | Regression | Overview, Hands-on Jupyter Notebook | Week 1 | Chapter 4 |  |
-| 3 | Multi-class Classification |  |  |  |  |
-| 4 | Neural Networks Learning |  |  |  |  |
-| 5 | Support Vector Machines |  |  |  |  |
-| 6 | K-means Clustering and Principal Component Analysis |  |  |  |  |
-| 7 | Convolution Neural Network |  |  |  |  |
-| 8| Reinforcement Learning |  |  |  |  |
-| 9 |  |  |  |  |  |
+| 2 | Regression- part 1 | Overview, Hands-on Jupyter Notebook | Week 1 | Chapter 4 |  |
+| 3 | Regression - part 2 | Quality/performance metrics, Normalization/feature scaling, polynomial regression, logistic regression , decision trees| week 2, week 3 | Chapter 2 ,Chapter 6 |  |
+| 4 | Classification |  |  |  |  |
+| 5 | Neural Networks Learning |  |  |  |  |
+| 6 | Support Vector Machines |  |  |  |  |
+| 7 | K-means Clustering and Principal Component Analysis |  |  |  |  |
+| 8 | Convolution Neural Network |  |  |  |  |
+| 9| Reinforcement Learning |  |  |  |  |
+| 10 |  |  |  |  |  |
 
 ## :memo: References
 
