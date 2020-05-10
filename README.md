@@ -45,7 +45,7 @@ Homework for the next class:
 
 
 ### Week 2 (5-6-20):
-- [Week 2 Video Recording Link]()
+- [Week 2 Video Recording Link](https://youtu.be/v4V7do7CvGM)
 
 Summary: This week we will cover:
 
