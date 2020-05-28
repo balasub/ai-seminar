@@ -67,6 +67,7 @@ Homework and reading for the next class:
 
 ### Week 4 (5-27-20)
 - [Week 4 Lecture](https://youtu.be/JpGF-yA23VI)
+
 Summary: This week we will cover:
 
 - Feature Scaling
