@@ -7,13 +7,14 @@
 | 1 | Overview | Overview, Google Colab, Python Refresher | Week 1 | Chapter 1 | 
 | 2 | Regression- part 1 | Overview, Hands-on Jupyter Notebook | Week 1 | Chapter 4 |  |
 | 3 | Regression - part 2 | Quality/performance metrics, Normalization/feature scaling, polynomial regression, logistic regression , decision trees| week 2, week 3 | Chapter 2 ,Chapter 6 |  |
-| 4 | Classification |  |  |  |  |
-| 5 | Neural Networks Learning |  |  |  |  |
-| 6 | Support Vector Machines |  |  |  |  |
-| 7 | K-means Clustering and Principal Component Analysis |  |  |  |  |
-| 8 | Convolution Neural Network |  |  |  |  |
-| 9| Reinforcement Learning |  |  |  |  |
-| 10 |  |  |  |  |  |
+| 4 | Feature Scaling, Regression Model Evaluation |  |  |  |  |
+| 5 | Classification |  |  |  |  |
+| 6 | Neural Networks Learning |  |  |  |  |
+| 7 | Support Vector Machines |  |  |  |  |
+| 8 | K-means Clustering and Principal Component Analysis |  |  |  |  |
+| 9 | Convolution Neural Network |  |  |  |  |
+| 10| Reinforcement Learning |  |  |  |  |
+| 11 |  |  |  |  |  |
 
 ## :memo: References
 
@@ -63,3 +64,13 @@ Homework and reading for the next class:
 - The "Feature Scaling" section from chapter 2 of the book.
 - The "Multivariate Linear Regression" videos/readings from week 2 of Coursera for understanding polynomial regression.
 - The "Classification and Representation" videos/readings from week 3 of Coursera for understanding logistic regression.
+
+### Week 4 (5-27-20)
+- [Week 4 Lecture](https://youtu.be/JpGF-yA23VI)
+Summary: This week we will cover:
+
+- Feature Scaling
+  - Normalization
+  - Standardization
+- Regression Model Evaluation
+
