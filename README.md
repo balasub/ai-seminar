@@ -75,3 +75,13 @@ Summary: This week we will cover:
   - Standardization
 - Regression Model Evaluation
 
+
+### Week 5 (6-3-20)
+- [Week 5 Lecture](https://youtu.be/JpGF-yA23VI)
+
+Summary: This week we will cover:
+
+- Classification
+- Encoding
+- Different classification methods using Scikit
+
