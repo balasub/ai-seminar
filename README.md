@@ -77,7 +77,7 @@ Summary: This week we will cover:
 
 
 ### Week 5 (6-3-20)
-- [Week 5 Lecture](https://youtu.be/JpGF-yA23VI)
+- [Week 5 Lecture](https://youtu.be/Im-du-q5cDQ)
 
 Summary: This week we will cover:
 
