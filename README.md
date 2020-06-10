@@ -85,3 +85,6 @@ Summary: This week we will cover:
 - Encoding
 - Different classification methods using Scikit
 
+### Week 6
+
+Summary: This week we will cover topics around deep learning.
