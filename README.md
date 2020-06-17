@@ -87,4 +87,5 @@ Summary: This week we will cover:
 
 ### Week 6
 
+- [Week 6 Lecture](https://www.youtube.com/watch?v=N-2JfyVYfz4)
 Summary: This week we will cover topics around deep learning.
