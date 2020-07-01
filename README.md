@@ -11,7 +11,7 @@
 | 5 | Classification |  |  |  |  |
 | 6 | Neural Networks Learning |  |  |  |  |
 | 7 | Deep Neural Networks|  |  |  |  |
-| 8 | K-means Clustering | Overview of clustering |  | Lecture 13  |  |
+| 8 | K-means Clustering | Overview of clustering |  Lecture 13|   |  |
 | 9 | Reinforcement Learning|  |  |  |  |
 | 10| Advance Reinforcement Learning |  |  |  |  |
 | 11 |  |  |  |  |  |
