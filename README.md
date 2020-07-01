@@ -10,10 +10,10 @@
 | 4 | Feature Scaling, Regression Model Evaluation |  |  |  |  |
 | 5 | Classification |  |  |  |  |
 | 6 | Neural Networks Learning |  |  |  |  |
-| 7 | Support Vector Machines |  |  |  |  |
-| 8 | K-means Clustering and Principal Component Analysis |  |  |  |  |
-| 9 | Convolution Neural Network |  |  |  |  |
-| 10| Reinforcement Learning |  |  |  |  |
+| 7 | Deep Neural Networks|  |  |  |  |
+| 8 | K-means Clustering |  |  |  |  |
+| 9 | Reinforcement Learning|  |  |  |  |
+| 10| Advance Reinforcement Learning |  |  |  |  |
 | 11 |  |  |  |  |  |
 
 ## :memo: References
@@ -88,4 +88,14 @@ Summary: This week we will cover:
 ### Week 6
 
 - [Week 6 Lecture](https://www.youtube.com/watch?v=N-2JfyVYfz4)
-Summary: This week we will cover topics around deep learning.
+Summary: This week we will cover topics around neural networks
+
+### Week 7
+- [Week 7 Lecture](https://www.youtube.com/watch?v=GNu6laq7cpA)
+Summary: This week we will cover topics around deep learning and CNN.
+
+### Week 8
+
+- [Week 8 Lecture]()
+Summary: This week we will cover Clustering and K-means clustering
+
