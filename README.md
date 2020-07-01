@@ -91,7 +91,7 @@ Summary: This week we will cover:
 Summary: This week we will cover topics around neural networks
 
 ### Week 7
-- [Week 7 Lecture](https://www.youtube.com/watch?v=GNu6laq7cpA)
+- [Week 7 Lecture](https://youtu.be/nFrDtCXVqeA)
 Summary: This week we will cover topics around deep learning and CNN.
 
 ### Week 8
