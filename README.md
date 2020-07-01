@@ -96,6 +96,6 @@ Summary: This week we will cover topics around deep learning and CNN.
 
 ### Week 8
 
-- [Week 8 Lecture]()
+- [Week 8 Lecture](https://youtu.be/cEiWDMcD4fE)
 Summary: This week we will cover Clustering and K-means clustering
 
