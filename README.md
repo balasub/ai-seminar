@@ -8,10 +8,10 @@
 | 2 | Regression- part 1 | Overview, Hands-on Jupyter Notebook | Week 1 | Chapter 4 |  |
 | 3 | Regression - part 2 | Quality/performance metrics, Normalization/feature scaling, polynomial regression, logistic regression , decision trees| week 2, week 3 | Chapter 2 ,Chapter 6 |  |
 | 4 | Feature Scaling, Regression Model Evaluation |  |  |  |  |
-| 5 | Classification |  |  |  |  |
-| 6 | Neural Networks Learning |  |  |  |  |
-| 7 | Deep Neural Networks|  |  |  |  |
-| 8 | K-means Clustering | Overview of clustering |  Lecture 13|   |  |
+| 5 | Classification |  |  |Chapter 3  |  |
+| 6 | Neural Networks Learning |  |  | Chapter 10 |  |
+| 7 | Deep Neural Networks|  |  |  Chapter 11|  |
+| 8 | K-means Clustering | Overview of clustering |  Lecture 13|  Chapter 9 |  |
 | 9 | Reinforcement Learning|  |  |  |  |
 | 10| Advance Reinforcement Learning |  |  |  |  |
 | 11 |  |  |  |  |  |
