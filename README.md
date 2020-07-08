@@ -88,14 +88,26 @@ Summary: This week we will cover:
 ### Week 6
 
 - [Week 6 Lecture](https://www.youtube.com/watch?v=N-2JfyVYfz4)
+
 Summary: This week we will cover topics around neural networks
 
 ### Week 7
 - [Week 7 Lecture](https://youtu.be/nFrDtCXVqeA)
+
 Summary: This week we will cover topics around deep learning and CNN.
 
 ### Week 8
 
 - [Week 8 Lecture](https://youtu.be/cEiWDMcD4fE)
+
 Summary: This week we will cover Clustering and K-means clustering
+
+### Week 9
+
+- [Week 9 Lecture](https://youtu.be/d2MeVaNTWeQ)
+
+Summary: This week we will cover Reinforcement Learning
+
+
+
 
