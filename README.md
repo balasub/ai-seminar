@@ -12,7 +12,7 @@
 | 6 | Neural Networks Learning |  |  | Chapter 10 |  |
 | 7 | Deep Neural Networks|  |  |  Chapter 11|  |
 | 8 | K-means Clustering | Overview of clustering |  Lecture 13|  Chapter 9 |  |
-| 9 | Reinforcement Learning|  |  |  |  |
+| 9 | Reinforcement Learning|  |  |  Chapter 18|  |
 | 10| Advance Reinforcement Learning |  |  |  |  |
 | 11 |  |  |  |  |  |
 
