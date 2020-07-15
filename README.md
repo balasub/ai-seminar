@@ -108,6 +108,14 @@ Summary: This week we will cover Clustering and K-means clustering
 
 Summary: This week we will cover Reinforcement Learning
 
+### Week 10:
+
+- [Week 10 Lecture](https://youtu.be/SX_-6iCK40M)
+
+Summary we cover more concepts in Reinforcement Learning
+
+
+
 
 
 
