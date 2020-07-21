@@ -14,7 +14,9 @@
 | 8 | K-means Clustering | Overview of clustering |  Lecture 13|  Chapter 9 |  |
 | 9 | Reinforcement Learning|  |  |  Chapter 18|  |
 | 10| Advance Reinforcement Learning |  |  |  |  |
-| 11 |  |  |  |  |  |
+| 11 | Autoencoders |  |  |  |  |
+| 12 | VAE & GAN |  |  |  |  |
+
 
 ## :memo: References
 
