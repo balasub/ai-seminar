@@ -114,6 +114,12 @@ Summary: This week we will cover Reinforcement Learning
 
 Summary we cover more concepts in Reinforcement Learning
 
+### Week 11:
+
+- [Week 11 Lecture](https://youtu.be/XL4xWrHSkcQ)
+
+Summary: In this lecture we covered the Autoencoders.
+
 
 
 
