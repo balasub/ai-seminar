@@ -123,6 +123,13 @@ Summary we cover more concepts in Reinforcement Learning
 Summary: In this lecture we covered the Autoencoders.
 
 
+### Week 12
+
+-[Week 12 Lecture](https://youtu.be/ChxGM8AtrCU)
+
+Summary : In this lecture we will cover the Variational Autoencoder(VAE) and Generative Adversarial Networks (GAN)
+
+
 
 
 
